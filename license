@@ -17,7 +17,7 @@ No fees or royalties apply for non‑commercial use.
 Mandatory Attribution
 Any public use, redistribution, or modification must include clear attribution:
 
-“Original work by [Author Name / Alias]”
+“Original work by [kiliandiama]”
 
 Attribution must appear in:
 
